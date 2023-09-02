@@ -1,5 +1,5 @@
-# mathmagicianone
-# Math Magician
+# Books 
+# Books
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician: setup project<a name="about-project"></a>
+# 📖 books: setup project<a name="about-project"></a>
 
-**Math magician** is developed in React, CSS, JavaScript, and Es 6 modules,webback
+**Books** is developed in React, CSS, JavaScript, and Es 6 modules,webback
 
 ## 🛠 Built With <a name="built-with"></a>
 React and JSX
@@ -40,7 +40,7 @@ React and JSX
 
 ### Key Features <a name="key-features"></a>
 
-- **Math Magician: setup project**
+- **Books : setup project**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@ In order to run this project, you need:
 ### Setup
 
 Clone this repository to your desired folder
-https://github.com/samuelkinyanjui/mathmagician
+https://github.com/samuelkinyanjui/bookstore
 
 
 ### Install
@@ -81,8 +81,7 @@ To run the project, execute the following command:
 ### Run tests
 
 > npx hint .
-##live in render
-https://math-man.onrender.com/
+
 
 ### Deployment
 
@@ -110,7 +109,7 @@ Project can be deployed by using the windows ,linux servers.
 
 - [ ] **More react features**
 - [ ] **API implemetation**
-- [ ] **Calculator development**
+
    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,7 +120,7 @@ Project can be deployed by using the windows ,linux servers.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/samuelkinyanjui/mathmagician/issues).
+Feel free to check the [issues page](https://github.com/samuelkinyanjui/bookstore/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
